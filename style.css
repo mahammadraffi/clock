@@ -1,0 +1,13 @@
+body{
+  
+    background: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red );
+margin: 0;
+padding: 0;
+}
+#clock{
+    color: aqua;
+font-size: 50px;
+    margin:200px auto;
+    width: 300px;;
+    
+}
